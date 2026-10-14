@@ -1,0 +1,280 @@
+{
+  "source_rows": 17099,
+  "retained_rows": 15099,
+  "molecules": 13973,
+  "documents": 2239,
+  "observation_counts": {
+    "exact": 10478,
+    "right": 4331,
+    "left": 290
+  },
+  "excluded_rows": 2000,
+  "splits": [
+    {
+      "seed": 901,
+      "train_rows": 10434,
+      "validation_rows": 1365,
+      "test_rows": 2987,
+      "training_test_molecule_overlap": 0,
+      "training_test_document_overlap": 0
+    },
+    {
+      "seed": 902,
+      "train_rows": 10094,
+      "validation_rows": 1470,
+      "test_rows": 3260,
+      "training_test_molecule_overlap": 0,
+      "training_test_document_overlap": 0
+    },
+    {
+      "seed": 903,
+      "train_rows": 10099,
+      "validation_rows": 1606,
+      "test_rows": 3042,
+      "training_test_molecule_overlap": 0,
+      "training_test_document_overlap": 0
+    }
+  ],
+  "split_results": {
+    "901/constant_endpoint": {
+      "rows": 2987,
+      "nll": 1.5360572519347353,
+      "exact_only_rmse": 1.0562447634089567,
+      "by_observation": {
+        "exact": {
+          "rows": 2107,
+          "nll": 1.548259244267274
+        },
+        "left": {
+          "rows": 56,
+          "nll": 1.3048799584752746
+        },
+        "right": {
+          "rows": 824,
+          "nll": 1.520567361872928
+        }
+      }
+    },
+    "901/constant_observation": {
+      "rows": 2987,
+      "nll": 1.4180959292862452,
+      "exact_only_rmse": 1.1340514816830187,
+      "by_observation": {
+        "exact": {
+          "rows": 2107,
+          "nll": 1.5524247201511974
+        },
+        "left": {
+          "rows": 56,
+          "nll": 1.260403537021593
+        },
+        "right": {
+          "rows": 824,
+          "nll": 1.0853289530900871
+        }
+      }
+    },
+    "901/endpoint_gaussian": {
+      "rows": 2987,
+      "nll": 1.5677915424321147,
+      "exact_only_rmse": 1.0147579241565667,
+      "by_observation": {
+        "exact": {
+          "rows": 2107,
+          "nll": 1.4800242670463848
+        },
+        "left": {
+          "rows": 56,
+          "nll": 0.8743389625368374
+        },
+        "right": {
+          "rows": 824,
+          "nll": 1.8393437192669067
+        }
+      }
+    },
+    "901/observation_likelihood": {
+      "rows": 2987,
+      "nll": 1.4389824179884458,
+      "exact_only_rmse": 1.048602570639886,
+      "by_observation": {
+        "exact": {
+          "rows": 2107,
+          "nll": 1.5215845732508986
+        },
+        "left": {
+          "rows": 56,
+          "nll": 1.0441011187753506
+        },
+        "right": {
+          "rows": 824,
+          "nll": 1.2546020922820689
+        }
+      }
+    },
+    "902/constant_endpoint": {
+      "rows": 3260,
+      "nll": 1.2613897979788002,
+      "exact_only_rmse": 0.8615013494306907,
+      "by_observation": {
+        "exact": {
+          "rows": 2116,
+          "nll": 1.2768046985501829
+        },
+        "left": {
+          "rows": 157,
+          "nll": 0.36187523679368816
+        },
+        "right": {
+          "rows": 987,
+          "nll": 1.3714261267498407
+        }
+      }
+    },
+    "902/constant_observation": {
+      "rows": 3260,
+      "nll": 1.2394617933238956,
+      "exact_only_rmse": 0.9427941980330863,
+      "by_observation": {
+        "exact": {
+          "rows": 2116,
+          "nll": 1.404976170161703
+        },
+        "left": {
+          "rows": 157,
+          "nll": 0.5049293384343952
+        },
+        "right": {
+          "rows": 987,
+          "nll": 1.0014609564736945
+        }
+      }
+    },
+    "902/endpoint_gaussian": {
+      "rows": 3260,
+      "nll": 1.2698027067940592,
+      "exact_only_rmse": 0.8145393301682738,
+      "by_observation": {
+        "exact": {
+          "rows": 2116,
+          "nll": 1.251731494888804
+        },
+        "left": {
+          "rows": 157,
+          "nll": 0.31882123639629145
+        },
+        "right": {
+          "rows": 987,
+          "nll": 1.4598156503036528
+        }
+      }
+    },
+    "902/observation_likelihood": {
+      "rows": 3260,
+      "nll": 1.2328575406296385,
+      "exact_only_rmse": 0.8604165979533778,
+      "by_observation": {
+        "exact": {
+          "rows": 2116,
+          "nll": 1.3434260125027262
+        },
+        "left": {
+          "rows": 157,
+          "nll": 0.38638124426316683
+        },
+        "right": {
+          "rows": 987,
+          "nll": 1.130460268133268
+        }
+      }
+    },
+    "903/constant_endpoint": {
+      "rows": 3042,
+      "nll": 1.3148241598130908,
+      "exact_only_rmse": 0.8636845727192906,
+      "by_observation": {
+        "exact": {
+          "rows": 2248,
+          "nll": 1.2723962764563934
+        },
+        "left": {
+          "rows": 24,
+          "nll": 1.3233050697793562
+        },
+        "right": {
+          "rows": 770,
+          "nll": 1.4384271987048642
+        }
+      }
+    },
+    "903/constant_observation": {
+      "rows": 3042,
+      "nll": 1.2967974940327556,
+      "exact_only_rmse": 0.9548227020226595,
+      "by_observation": {
+        "exact": {
+          "rows": 2248,
+          "nll": 1.3929285480372844
+        },
+        "left": {
+          "rows": 24,
+          "nll": 1.2968898946023875
+        },
+        "right": {
+          "rows": 770,
+          "nll": 1.016141874531649
+        }
+      }
+    },
+    "903/endpoint_gaussian": {
+      "rows": 3042,
+      "nll": 1.3423930657102943,
+      "exact_only_rmse": 0.8037684097726864,
+      "by_observation": {
+        "exact": {
+          "rows": 2248,
+          "nll": 1.2191271432062274
+        },
+        "left": {
+          "rows": 24,
+          "nll": 1.009499319518606
+        },
+        "right": {
+          "rows": 770,
+          "nll": 1.7126414341489216
+        }
+      }
+    },
+    "903/observation_likelihood": {
+      "rows": 3042,
+      "nll": 1.2684739035218073,
+      "exact_only_rmse": 0.8119611678696906,
+      "by_observation": {
+        "exact": {
+          "rows": 2248,
+          "nll": 1.278864645753785
+        },
+        "left": {
+          "rows": 24,
+          "nll": 1.136023676643769
+        },
+        "right": {
+          "rows": 770,
+          "nll": 1.2422666527524397
+        }
+      }
+    }
+  },
+  "scope": "Independent hERG IC50 table; not a replication of peptide MIC biology. Repeated partitions are dependent.",
+  "paired_document_nll_differences": {
+    "901": -0.20629430516863204,
+    "902": -0.08634963820025122,
+    "903": -0.14975639019551248
+  },
+  "adaptive_addendum": "Constant-observation baseline was added after seeing the first external head results; fitted on training rows only. Not preregistered.",
+  "proper_head_minus_proper_constant_document_nll": {
+    "901": 0.036202802760967434,
+    "902": 0.04425707467340757,
+    "903": 0.07096664272187371
+  }
+}

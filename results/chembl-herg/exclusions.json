@@ -1,0 +1,8002 @@
+[
+  {
+    "activity_id": 305157,
+    "reason": "missing_or_unsupported_observation"
+  },
+  {
+    "activity_id": 307863,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 315740,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 318313,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 321892,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 759116,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 784656,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 909008,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 927111,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 929869,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 931175,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1029991,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1029992,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1031112,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1032353,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1033547,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1033548,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1037290,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1038441,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1043115,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1044686,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1047052,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1047053,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1048317,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1048319,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1049380,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1050647,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1053112,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1054249,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1055549,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1058223,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1063200,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1064442,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1427007,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1427110,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1427112,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1427113,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1427114,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1427115,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1427116,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1427117,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1427118,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1427122,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1427123,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1427124,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1429718,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1429719,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1429720,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1429721,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1429722,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1429834,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1429835,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1429836,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1429839,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1429840,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1429841,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1429842,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1430269,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1430270,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1448466,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1448467,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1448468,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1448469,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1449224,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1449635,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1449637,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1449647,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1449648,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1449658,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1462986,
+    "reason": "missing_or_unsupported_observation"
+  },
+  {
+    "activity_id": 1523554,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523555,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523558,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523559,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523562,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523563,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523564,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523565,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523566,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523571,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523667,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523668,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523669,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523670,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523671,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523672,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523673,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523674,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523679,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523680,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523682,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523683,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523685,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523686,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523687,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523690,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523693,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523696,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523697,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523698,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523699,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523703,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523704,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523706,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523709,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523710,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523711,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523712,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523834,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523835,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523836,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523837,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523838,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523839,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523840,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523841,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523843,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523945,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523947,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523948,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523949,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523950,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523951,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523952,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523953,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523954,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1523958,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1718508,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1754115,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1777167,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1783988,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1791370,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1807021,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1807022,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1849912,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1874268,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1874273,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1874274,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 1954523,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2024839,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2044022,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2053551,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2053555,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2098623,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2098677,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2106756,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108226,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108242,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108243,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108244,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108245,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108246,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108247,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108248,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108249,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108250,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108251,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108252,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108253,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108254,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108255,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108256,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108257,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108258,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108259,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2108260,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2191975,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2191977,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2294923,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2294924,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295022,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295023,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295024,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295025,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295026,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295027,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295028,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295030,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295031,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295032,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295034,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295035,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295038,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295039,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295060,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 2295065,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 2295067,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 2295130,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 2295131,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 2295132,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 2295133,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295134,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295135,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295136,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295137,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295138,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295139,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295140,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 2295141,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295142,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295143,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295144,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 2295145,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295146,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295147,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 2295148,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 2295149,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2295150,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358263,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358264,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358265,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358266,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358267,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358268,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358270,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358271,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358272,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358273,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358274,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358275,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358276,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358277,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358278,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358279,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358280,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358281,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358282,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358283,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358284,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358285,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358286,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358287,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358288,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358289,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358290,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358291,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358292,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358293,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358294,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358295,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358296,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358297,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358298,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358299,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358300,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358301,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358302,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358303,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358304,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358305,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358306,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358307,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358308,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358309,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358310,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358311,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358312,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358313,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358314,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358315,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358316,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358317,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358318,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358319,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358320,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358321,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358322,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358323,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358324,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358325,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358326,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358327,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2358328,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2369520,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2369521,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2369522,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2387369,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2395352,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2395357,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2448884,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 2473158,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2515574,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2606569,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2606570,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2606611,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2616647,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2616648,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2616652,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2616692,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2616693,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2616694,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2616695,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2616696,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645512,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645513,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645514,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645515,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645516,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645517,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645518,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645519,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645520,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645521,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645522,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645523,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645524,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645525,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645526,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645527,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645528,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645529,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645531,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645532,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645533,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645534,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645535,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645536,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645537,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645538,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645539,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645540,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645541,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645542,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645543,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645544,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645545,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645546,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645547,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2645548,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2665884,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2679542,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 2688947,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2698994,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2710249,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2710250,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2710251,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2710252,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2710273,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2717196,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2720052,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2924231,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2924234,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2943015,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2943016,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2943017,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2943022,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2943023,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2943025,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2943026,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 2943027,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009813,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009816,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009822,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009825,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009828,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009831,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009834,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009837,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009840,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009843,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009846,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009849,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009852,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009855,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009858,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009861,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009864,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009867,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009870,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009873,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009876,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009879,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009882,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009885,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009888,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009891,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009894,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009897,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009900,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009903,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3009906,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3081303,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3096110,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3096114,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3186290,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3192294,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3192295,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3192296,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3192302,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 3192321,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 3192322,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 3192329,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 3192331,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 3192338,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 3192348,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 3192359,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 3192364,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 3192410,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 3192411,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 3193645,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3216602,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3216679,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3227318,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3246115,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3246122,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3279595,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3279596,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3293669,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3309667,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3369458,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3372525,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3372529,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3406783,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 3417275,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3505384,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3515195,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 3590892,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5126736,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5215114,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5215115,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5215116,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5215117,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5215118,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5215119,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5215120,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5215121,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5215122,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5215123,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5215124,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5215126,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218895,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218896,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218897,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218898,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218899,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218901,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218907,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218908,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218909,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218910,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218912,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218913,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218914,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218915,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218916,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218918,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218919,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218921,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218922,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218924,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218925,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218927,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218928,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218929,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218930,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218931,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218932,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218933,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218934,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218935,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218936,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218937,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218938,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218940,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218941,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218946,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218947,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218949,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218950,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218951,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218953,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218956,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218957,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218958,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218959,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218962,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218965,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218970,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218978,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218979,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218981,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218986,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218989,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218990,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218991,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218993,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218994,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5218996,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219007,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219009,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219014,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219015,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219017,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219018,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219020,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219023,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219024,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219027,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219031,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219033,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219034,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219035,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219037,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219038,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219042,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219043,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219044,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219048,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219049,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219050,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5219058,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5246193,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 5247025,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 5247027,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 5247205,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6181655,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 6203760,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6212722,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6212733,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6212744,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 6218218,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6286103,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6302432,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6302433,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6302434,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6302435,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6302436,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6302466,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6332015,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6332016,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6332020,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6332021,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6332026,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6332027,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345236,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345237,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345240,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345241,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345242,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345252,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345253,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345254,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345255,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345257,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345258,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345260,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345261,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345262,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345263,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345264,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345265,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345266,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345267,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345268,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345269,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345270,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345272,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345274,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345275,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345281,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345282,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345284,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345285,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345286,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345287,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345288,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345290,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345291,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345292,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345293,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345294,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345295,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345296,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345297,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345298,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345299,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345300,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345301,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345302,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345304,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345305,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345306,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345307,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345308,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345309,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345312,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345313,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345327,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345354,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345355,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345356,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345357,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345358,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345359,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345360,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345361,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345362,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345363,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345364,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345365,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 6345446,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 7852279,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 7852280,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 7939981,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 7939993,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 7962772,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 7965860,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 7965861,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 7982082,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 7982096,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 7982097,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 8005786,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 8036743,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 8042878,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 8049931,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 10869420,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 10869421,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 10869422,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 10869423,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 10869813,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 10869814,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 10869831,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 10870776,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 10871820,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 10883862,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 10883863,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 10890608,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 10948291,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 10960857,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 10981562,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12037471,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12037489,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12053373,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12053379,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12070059,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12080586,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 12084046,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12084050,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12084051,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12084054,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12084055,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12084057,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12084058,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12084061,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12084062,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12084063,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12084064,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12084067,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12084070,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12084071,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12084072,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12084403,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12084905,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12149753,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12167561,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12171679,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12199921,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12630144,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 12653099,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12701983,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 12705556,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13311573,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 13356445,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13356446,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13356447,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13356448,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13356449,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13356450,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13356451,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13356452,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13356453,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13356454,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13356455,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13356457,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13356458,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13356459,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13356460,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13356461,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13356463,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13365897,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13446824,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13446826,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13446829,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13446832,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13446833,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13446838,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13499693,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13914733,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13943340,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 13959518,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14123629,
+    "reason": "missing_or_unsupported_observation"
+  },
+  {
+    "activity_id": 14123630,
+    "reason": "missing_or_unsupported_observation"
+  },
+  {
+    "activity_id": 14123631,
+    "reason": "missing_or_unsupported_observation"
+  },
+  {
+    "activity_id": 14123632,
+    "reason": "missing_or_unsupported_observation"
+  },
+  {
+    "activity_id": 14123633,
+    "reason": "missing_or_unsupported_observation"
+  },
+  {
+    "activity_id": 14123634,
+    "reason": "missing_or_unsupported_observation"
+  },
+  {
+    "activity_id": 14526077,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14526078,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14531681,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14545867,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14545868,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14551900,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14551902,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14552019,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14584193,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14645849,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14726692,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14739781,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14739782,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14739783,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14745888,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14745904,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14745906,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14985283,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 14992467,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15039877,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15039885,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15042159,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15070929,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15070937,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15071008,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15071020,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15071028,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15071036,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15071044,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15071089,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15071097,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15073010,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15073416,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15091441,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15104060,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15117192,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15140566,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15147655,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15175570,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15182120,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15182121,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15182142,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15182143,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15182144,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15187894,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15218439,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15224011,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15224012,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15224015,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15235918,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15235924,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15245446,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15245448,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15245449,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15245459,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15245611,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15257952,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15257954,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15257955,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15257956,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15257960,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15257961,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15257964,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15257965,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15257971,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15257973,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15257974,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15257977,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15257978,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258011,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258012,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258017,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258019,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258022,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258023,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258025,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258026,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258027,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258028,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258030,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258034,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258035,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258037,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258041,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258043,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258052,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258054,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258055,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258056,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258060,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258062,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258063,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258064,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258065,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258067,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258070,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258071,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258072,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258074,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258076,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258077,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258078,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258079,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258082,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258083,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258084,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258085,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258092,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258094,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258097,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258100,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15258101,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15608489,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15613963,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15615018,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15615032,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15656744,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15678850,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15678878,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15681038,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15685596,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15687936,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15689485,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15690003,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15690010,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15699206,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15699207,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15699208,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15699312,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15726808,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 15753531,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 16464577,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 16464578,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 16497232,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 16497265,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 16497271,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 16497272,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 16508361,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 16508362,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 16508414,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 16508419,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 16508460,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 16528239,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 16528262,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 16528266,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 16539491,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 16554956,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 16555601,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 16555604,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 16556242,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 16748988,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 16779932,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 16781884,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 16812216,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 16812217,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17671043,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 17671048,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 17671062,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 17671079,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 17671096,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 17671100,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 17671101,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 17671105,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 17671143,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 17737315,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737316,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737317,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737318,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737319,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737320,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737321,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737322,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737323,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737324,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737325,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737326,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737327,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737328,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737329,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737330,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737331,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737332,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737333,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737334,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737335,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737336,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737337,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737338,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737339,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737340,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737341,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737342,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737343,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737344,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737345,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737346,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737347,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737348,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737349,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737350,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737351,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737352,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737353,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737354,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737355,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737356,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737357,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737358,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737359,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737360,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737363,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737364,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737366,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737367,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737368,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737369,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737370,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737371,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737372,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737373,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737374,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737375,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737376,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737377,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737379,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737380,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737381,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737382,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737383,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737384,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737385,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737386,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737387,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737388,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737389,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737390,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737391,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737392,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737393,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737394,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737395,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737396,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737397,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737398,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737399,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737400,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737401,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737402,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737403,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737404,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737405,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737406,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737407,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737408,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737409,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737410,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737411,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737412,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737413,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737414,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737415,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737416,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737417,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737418,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737419,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737420,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737421,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737422,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737423,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737424,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737425,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737426,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737427,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737428,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737429,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737430,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737431,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737432,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17737433,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17785667,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17785668,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17785669,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17785670,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17786350,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17786358,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17786364,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17791701,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17791702,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17791703,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17798391,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17798392,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17798784,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17798787,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17976809,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17976810,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 17986307,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18001371,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 18001372,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 18013154,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18013172,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18013238,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18014480,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18014481,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18015300,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18033173,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18071650,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18079140,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18093835,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18093836,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18125043,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18138895,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18166273,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18166279,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18166280,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18166281,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18166282,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18166283,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18166284,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18170217,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18170220,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18214924,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18221044,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18221256,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18397729,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18420006,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18452271,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18459172,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18473636,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18473639,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18473640,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18497362,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18532609,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 18532610,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 18532612,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 18536128,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18570642,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18572444,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18572505,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18581428,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18588744,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18682771,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 18700638,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18700639,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18705244,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18705247,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18722679,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18761272,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18779460,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18779461,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18790349,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18813960,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18860497,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18897326,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18897327,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18897328,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18916318,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18953263,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18996906,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 18996908,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19056085,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19056132,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19063660,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19063661,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19063662,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19074790,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19082555,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19090822,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 19131862,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19211742,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19223263,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19260441,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19260442,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19280627,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 19299845,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19410796,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19410801,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19432906,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19432907,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19486887,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 19487404,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 20612223,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 20630775,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 20630776,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 20630777,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 20638736,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 20664326,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 20666816,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 20666831,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 20667793,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 20680010,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 20684782,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 22428603,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22429865,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22429867,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22431467,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22455703,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22472412,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22482630,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22487250,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22758637,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22758638,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22769615,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22769618,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22769619,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22777190,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22789991,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22792350,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22807139,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22807141,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22825829,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22825830,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22888826,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22916338,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22990681,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 22992085,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145905,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145906,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145907,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145908,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145909,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145910,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145911,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145913,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145915,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145916,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145918,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145920,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145921,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145922,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145923,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145924,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145925,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145926,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145927,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145928,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145929,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145931,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145932,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145933,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23145934,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23198426,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 23202311,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23202312,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23225114,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23256954,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23259685,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23259687,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 23259688,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24345400,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24372754,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24372757,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24385854,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24385856,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24393267,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24395724,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24399166,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24399167,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24399168,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24421284,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24687507,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24687510,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24687512,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24719299,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24725536,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24725537,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24725538,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24725539,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24725540,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24725541,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24725542,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24740431,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24768317,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24772815,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24775668,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24799139,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24807885,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24809355,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24809357,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24809358,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24809359,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24822406,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24822407,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24822408,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24863088,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24875738,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24899057,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 24899061,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 24899069,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 24900131,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24900132,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24900133,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24900134,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24900135,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24900136,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24900137,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24900138,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24900139,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24900140,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24917700,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24959575,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24959578,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24974935,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24974936,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24974937,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24974938,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24974939,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24999725,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 24999726,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25011025,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25011026,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25014577,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25014578,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25014579,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25014580,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25014581,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25014582,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25022991,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25075332,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25101123,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25101147,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25113076,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25467673,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25502154,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25502155,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25508222,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25514359,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25524868,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25538584,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25593415,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25630543,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25674150,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25674152,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25674172,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688197,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688198,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688199,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688200,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688201,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688202,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688203,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688204,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688205,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688206,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688207,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688208,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688209,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688212,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688213,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688214,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688215,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688217,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688218,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25688219,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25712040,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25713829,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25722295,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25731702,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25731703,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25731704,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25731705,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25737766,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 25833450,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25842298,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25842299,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25865727,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25869343,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25894880,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25894881,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25894883,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25898212,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25902911,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25933115,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25952257,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25952258,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25978334,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 25984620,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26009373,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26009374,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26009375,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26009376,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26009378,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26011642,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26011769,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26018743,
+    "reason": "missing_or_unsupported_observation"
+  },
+  {
+    "activity_id": 26048469,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26111924,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26111925,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26111926,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26111927,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26160951,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26182664,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26183971,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26769698,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26769701,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26769707,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26769710,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26769713,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26769716,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26769719,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26769722,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26769728,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26769731,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26769734,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26769737,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26769740,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26769743,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905233,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905236,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905239,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905242,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905245,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905248,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905251,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905254,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905257,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905260,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905263,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905266,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905269,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905272,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905275,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905278,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905281,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905284,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905287,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905290,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905293,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905299,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 26905353,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27081341,
+    "reason": "invalid_molecule"
+  },
+  {
+    "activity_id": 27081347,
+    "reason": "invalid_molecule"
+  },
+  {
+    "activity_id": 27098117,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27098123,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27098129,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27400772,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27423446,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 27424832,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27599027,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27602093,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 27602558,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 27630944,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27630947,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27630950,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27630953,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27630956,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27630959,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27630962,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27630965,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659528,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659531,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659534,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659537,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659540,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659543,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659546,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659549,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659552,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659555,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659558,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659561,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659564,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659567,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659570,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659573,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659576,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659579,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659582,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659585,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659588,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659591,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659594,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659597,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659600,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659603,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659606,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659609,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659612,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659615,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659618,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659624,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659627,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659630,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659633,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659636,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659639,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659642,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659645,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659648,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659651,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659654,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659657,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659660,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659663,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659666,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659669,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659672,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659675,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659678,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659681,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659684,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659687,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659690,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659693,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659696,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659699,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659702,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659705,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659708,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659711,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659714,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659717,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659720,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659723,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659726,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659729,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659732,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659735,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659738,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659741,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659744,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659747,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659750,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659753,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659756,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659759,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659762,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659765,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659768,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659771,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659774,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659777,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659780,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659783,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659786,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659789,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659792,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659795,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659798,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659801,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659807,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659810,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659813,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659816,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659819,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659822,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659825,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659828,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659831,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659834,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659840,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659843,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659846,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659849,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659852,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659855,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659858,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659864,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659867,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27659870,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27734201,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27734204,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27734207,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27734210,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27734213,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27734216,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27734219,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27734222,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27734225,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27734228,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27734231,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27734234,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27734237,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27734240,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27734243,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27734246,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27744254,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27744257,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27744260,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27744263,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27744266,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27744269,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27744272,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27744275,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758945,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758948,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758951,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758954,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758957,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758960,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758963,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758966,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758969,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758972,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758975,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758978,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758981,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758984,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758987,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758990,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758993,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758996,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27758999,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759002,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759005,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759008,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759011,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759014,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759017,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759020,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759023,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759026,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759029,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759032,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759035,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759038,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759041,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759044,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759047,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759050,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759053,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759056,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759059,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759062,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759065,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759068,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759071,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759077,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759080,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759083,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759086,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759089,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759092,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759095,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759098,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759101,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759104,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759107,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759110,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759113,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27759116,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27823112,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27823250,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27823259,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27909140,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27909143,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27909149,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27915131,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919709,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919712,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919715,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919718,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919721,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919724,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919727,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919730,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919733,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919736,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919739,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919742,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919745,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919748,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919751,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919754,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919757,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919760,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919763,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919766,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919769,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919772,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919775,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919778,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919781,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919784,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919787,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919790,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919793,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919796,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919799,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919802,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919805,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919808,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919811,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919814,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919817,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919820,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919823,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919826,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919829,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919832,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919835,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919838,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919841,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919844,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919847,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919850,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919853,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919856,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919859,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919862,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919865,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919868,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919871,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919874,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919877,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919880,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919883,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919886,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919889,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919892,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919895,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919898,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919901,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919904,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919907,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919910,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919913,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919916,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919919,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919925,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919928,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919931,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919934,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919937,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919940,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919943,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919946,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919949,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919952,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919955,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919958,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919961,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919964,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919967,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919970,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919973,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919976,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919979,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919982,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919985,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919988,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919991,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919994,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27919997,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920000,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920003,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920006,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920009,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920012,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920015,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920018,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920021,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920024,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920027,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920030,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920033,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920036,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920039,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920042,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920045,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920048,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920051,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920054,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920057,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920060,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920066,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920069,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920072,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920075,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920078,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920081,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920084,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27920087,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27983777,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27983780,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27983783,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27983786,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27983789,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27983792,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27983795,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27983798,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 27983801,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28018100,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 28018103,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 28018106,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 28018115,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 28018118,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 28018127,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 28090793,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28111985,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28111988,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28111991,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28111994,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28111997,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112000,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112003,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112006,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112009,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112012,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112015,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112018,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112021,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112024,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112027,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112030,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112033,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112036,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112039,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112042,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112045,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112048,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112051,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112054,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112057,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112060,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112063,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112066,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112069,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112072,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112075,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112078,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112081,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112084,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112087,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112090,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112093,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112096,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112099,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112102,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112105,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112108,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112111,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112114,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112117,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112120,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112123,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112126,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112129,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112132,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112135,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112138,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112141,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112144,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112147,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112150,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112153,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28112156,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28160768,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 28187237,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187240,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187243,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187246,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187249,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187252,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187255,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187258,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187261,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187264,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187267,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187270,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187273,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187276,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187279,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187282,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187285,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187288,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187291,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187294,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187300,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28187303,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28208348,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28208351,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28208354,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28208357,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28208360,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28208363,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28208366,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28208369,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28208372,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28208375,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28208378,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28208381,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28208384,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28208387,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28208390,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28208393,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28406462,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 28406480,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 28406483,
+    "reason": "duplicate_molecule_assay_observation"
+  },
+  {
+    "activity_id": 28413809,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413812,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413815,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413818,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413821,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413824,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413827,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413830,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413833,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413836,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413839,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413842,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413845,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413848,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413851,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413854,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413857,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413860,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413863,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413866,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413869,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413872,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413875,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413878,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413881,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413884,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413887,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413890,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413893,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413896,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413899,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413902,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413905,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413908,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413911,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413914,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413917,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413920,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413923,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413926,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413929,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413932,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413935,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413938,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413941,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413944,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413947,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413950,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413953,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413956,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413959,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413962,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413965,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413968,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413971,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413974,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413977,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413980,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413983,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413986,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413989,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413992,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413995,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28413998,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414001,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414004,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414007,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414010,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414013,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414016,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414019,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414022,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414025,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414028,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414031,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414034,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414037,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414040,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414043,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414046,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414049,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414052,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414055,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414058,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414061,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414064,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414067,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414070,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414073,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414076,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414079,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414082,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414085,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414088,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414091,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414094,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414097,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414100,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414103,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414106,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414109,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414112,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414115,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414118,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414121,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414124,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414127,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414130,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414133,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414136,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414139,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414142,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414145,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414148,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414151,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414154,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414157,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414160,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414163,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414166,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414169,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414172,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414175,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414178,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414181,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414184,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28414187,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28528712,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28528718,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28528733,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28528745,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681511,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681523,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681532,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681541,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681550,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681559,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681568,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681577,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681586,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681595,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681613,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681622,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681631,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681640,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681649,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681658,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681667,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28681676,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28695194,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28695248,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28695371,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28829378,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28829384,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28829414,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28829432,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28829444,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28829450,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28829462,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28829480,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28829504,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28829510,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28829522,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28882634,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28882637,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28882643,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28882649,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28882655,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28882658,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28882664,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28882670,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28882673,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28882679,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28882685,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28882688,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28882694,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28882700,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28882706,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28882709,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28956095,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28956098,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28956104,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 28956113,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29075622,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29075624,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29088035,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29088036,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29088038,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29088039,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29088045,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29088046,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29088047,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29089203,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29111677,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29118758,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29118759,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29127355,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29136073,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29149353,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29163154,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29165470,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29168075,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29173779,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29178155,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29183443,
+    "reason": "missing_or_unsupported_observation"
+  },
+  {
+    "activity_id": 29183987,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29237353,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29249485,
+    "reason": "missing_or_unsupported_observation"
+  },
+  {
+    "activity_id": 29249486,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29252430,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29257265,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29257267,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29268978,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29284961,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29304831,
+    "reason": "validity_flag_or_potential_duplicate"
+  },
+  {
+    "activity_id": 29317337,
+    "reason": "validity_flag_or_potential_duplicate"
+  }
+]

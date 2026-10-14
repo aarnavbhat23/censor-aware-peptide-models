@@ -8,6 +8,33 @@ Train on what a MIC observation says, including the part it does **not** say.
 
 ![Per-source observation likelihood](results/source-transfer.png)
 
+## Independent assay extension
+
+The new experiment uses **17,099 source ChEMBL records**, retaining **15,099 hERG IC50 observations, 13,973 molecules and 2,239 documents**. There are 10,478 exact, 4,331 right-censored and 290 left-censored values. **No finite intervals occur in this snapshot**; interval correctness is validated numerically, not by a real interval-assay benchmark.
+
+![Independent IC50 likelihood and exact-value errors](results/chembl-herg/comparison.png)
+
+| Document split seed | Endpoint head NLL | Censor-aware head NLL | Constant censor-aware NLL |
+|---|---:|---:|---:|
+| 901 | 1.568 | 1.439 | **1.418** |
+| 902 | 1.270 | **1.233** | 1.239 |
+| 903 | 1.342 | **1.268** | 1.297 |
+
+The matched heads use 2,048-bit Morgan fingerprints, a train-only 64-component PCA and the same 64-unit Gaussian head. Three document splits purge validation/test molecules from training, and test molecules from validation. Preserving censoring improves observation likelihood over endpoint training in each split, while **exact-only RMSE worsens in each split**. The proper constant model wins one split. This does not establish a uniformly useful molecular predictor, improved peptide potency prediction, or calibrated uncertainty.
+
+The stronger constant-observation comparator was added **after inspecting the first external results**, fitted only on training data. That adaptive addition is recorded in the metric file. The analysis plan was committed before extension fits, after earlier peptide results were known; it was not independently preregistered. Read [the protocol](docs/EXTENSION_PROTOCOL.md) and [data attribution](data/CHEMBL_LICENSE.md).
+
+```bash
+python chembl_replay.py  # released snapshot, heads, strict split ledgers and all metrics
+python chembl_predict.py 'CCO' --seed 901
+python chembl_benchmark.py  # reconstruct all six molecular fits from the included snapshot
+python plot_extension.py
+# Optional current-API fetch; later releases may differ from the pinned snapshot:
+python chembl_fetch.py
+```
+
+All six heads, predictions, per-document comparisons, original page checksums and 2,000 exclusions are in `results/chembl-herg/`. The pinned raw JSONL snapshot is included under ChEMBL CC BY-SA 3.0; code is MIT. hERG small-molecule IC50 and peptide MIC are different domains, kept separate throughout. Cell safety or therapeutic utility is not inferred.
+
 ## First experiment: an honest failure to beat the baseline
 
 The upstream table has 6,448 rows. We retain **5,048 molar observations, 488 unique sequences and 11 papers**; 3,153 observations are censored. Another 1,400 mass-concentration rows are excluded because molecular weights and chemistry are not supplied. No molar/mass conversion is guessed.
@@ -47,7 +74,7 @@ For each of 11 test publications, one other publication is reserved for validati
 
 The same head architecture and weight seed are used for both objectives. The baseline replaces bounds by endpoints for its **training objective only**. Both models select checkpoints using the original censored observation likelihood on validation rows, making evaluation comparable. The validation source is the next DOI in sorted cyclic order, not selected by its test result. Fold counts and selected epochs are public. Tiny validation papers make early stopping noisy.
 
-The implementation uses `torch.special.log_ndtr` for stable log-survival and log-CDF terms, including extreme tails. It supports exact observations and one-sided censoring, rejects unsupported formats, preserves operator provenance, and tests the published likelihood identities and purging behavior. It does not currently support finite interval-censored observations.
+The implementation uses `torch.special.log_ndtr` for stable log-survival and log-CDF terms, including extreme tails. It supports exact observations and one-sided censoring, rejects unsupported formats, preserves operator provenance, and tests the published likelihood identities and purging behavior. It now also supports ordered finite intervals, tested against independent quadrature, tail calculations, shrinking intervals and gradient checks. The original peptide table has only exact and one-sided observations.
 
 ## What the data cannot establish
 

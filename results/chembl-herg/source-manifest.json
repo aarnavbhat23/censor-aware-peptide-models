@@ -1,0 +1,132 @@
+{
+  "query": {
+    "target_chembl_id": "CHEMBL240",
+    "standard_type": "IC50",
+    "standard_units": "nM",
+    "limit": 1000
+  },
+  "status": {
+    "activities": 24527044,
+    "chembl_db_version": "ChEMBL_37",
+    "chembl_release_date": "2026-05-01",
+    "compound_records": 3824604,
+    "disinct_compounds": 2921148,
+    "publications": 101100,
+    "status": "UP",
+    "targets": 18552
+  },
+  "target": "Voltage-gated inwardly rectifying potassium channel KCNH2",
+  "pages": [
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM&limit=1000",
+      "sha256": "be79299c8fa7342ca5ffc1f53df2a420dd97f8633506816e6d2e542e6d6f1000",
+      "file": "page-000.json",
+      "rows": 1000
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit=1000&offset=1000&target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM",
+      "sha256": "7a0415c3dc834b32fa0a2b5d8d0e3d954690c0a7ef5fde6f1bb441a35e836a27",
+      "file": "page-001.json",
+      "rows": 1000
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit=1000&offset=2000&target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM",
+      "sha256": "fcecae6b479250db75166a89f9302990f1deaf6069da9ab98e2eb2e400431393",
+      "file": "page-002.json",
+      "rows": 1000
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit=1000&offset=3000&target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM",
+      "sha256": "2816969b77487d9dc48ecc9fbd33b6a4e8b65218ffe5b7b972650c818b9f1f9a",
+      "file": "page-003.json",
+      "rows": 1000
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit=1000&offset=4000&target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM",
+      "sha256": "f78527931f641c276bba89d9f452a6706bef0fac1c52c17663f6b3a025078723",
+      "file": "page-004.json",
+      "rows": 1000
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit=1000&offset=5000&target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM",
+      "sha256": "d3ca90947a62a330ed9c082437026cf983da034f55493008dd5377efb67fbea2",
+      "file": "page-005.json",
+      "rows": 1000
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit=1000&offset=6000&target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM",
+      "sha256": "23e6419ebef823ea37200f600962b89306b71595d716607bace30789b008903e",
+      "file": "page-006.json",
+      "rows": 1000
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit=1000&offset=7000&target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM",
+      "sha256": "9805de2de89d1512d1557362c8561ed5dfadff799ba99736b7473d29533bd517",
+      "file": "page-007.json",
+      "rows": 1000
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit=1000&offset=8000&target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM",
+      "sha256": "883b0fb161985a62c4f3deeddc6c008af3317cbbe373e3a112c151bf42eab741",
+      "file": "page-008.json",
+      "rows": 1000
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit=1000&offset=9000&target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM",
+      "sha256": "e16ae8ee775d91a45a667fee785674dfc84853480d4a6d8065e072156975e00e",
+      "file": "page-009.json",
+      "rows": 1000
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit=1000&offset=10000&target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM",
+      "sha256": "38bccd912981e8ba2d1d44f76f5dec9f236b86dc251083e81a523cc639d1b728",
+      "file": "page-010.json",
+      "rows": 1000
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit=1000&offset=11000&target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM",
+      "sha256": "c2265fe8a994fb78af887f87046eb6f6690df7faf3c715f76dd40f4f5b67f48b",
+      "file": "page-011.json",
+      "rows": 1000
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit=1000&offset=12000&target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM",
+      "sha256": "6cf8c96d72b6506f9f184cf6e64381fb8b2a5f9a7df87ea3ce0770c2e097adc2",
+      "file": "page-012.json",
+      "rows": 1000
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit=1000&offset=13000&target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM",
+      "sha256": "c0a34bb2da967bcdd56898e23c297712562c79f271ff66a22d2725435fad4415",
+      "file": "page-013.json",
+      "rows": 1000
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit=1000&offset=14000&target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM",
+      "sha256": "596fd8d2a3cf8c06cc573728d55e5667c54f95448f01b538df26512809e739f1",
+      "file": "page-014.json",
+      "rows": 1000
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit=1000&offset=15000&target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM",
+      "sha256": "d568fff1a395929f7443e6538f336080a62ebd9fd27cb01a1a6166388cb55bb5",
+      "file": "page-015.json",
+      "rows": 1000
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit=1000&offset=16000&target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM",
+      "sha256": "7fa076e2a75f7dfbd2f3de071c41f403b81a1a8819499bce0e543bf153b397f9",
+      "file": "page-016.json",
+      "rows": 1000
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json?limit=1000&offset=17000&target_chembl_id=CHEMBL240&standard_type=IC50&standard_units=nM",
+      "sha256": "0fcd1ba4883fce93ea98d651385966c69325f1fa10a62f1e16967a05fa57fdec",
+      "file": "page-017.json",
+      "rows": 99
+    }
+  ],
+  "rows": 17099,
+  "license": "ChEMBL data: CC BY-SA 3.0; derived tables retain attribution/share-alike.",
+  "note": "Independent IC50 assay domain, not peptide MIC replication."
+}
