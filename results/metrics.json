@@ -1,0 +1,179 @@
+{
+  "source_rows": 6448,
+  "eligible_rows": 5048,
+  "unique_sequences": 488,
+  "papers": 11,
+  "excluded_rows": 1400,
+  "censored_rows": 3153,
+  "source_sha256": "f873b6a70745d1c29151b908b39b36ce9addfb67cac0b56ede4e9c6382555458",
+  "folds": [
+    {
+      "test_paper": "10.1016/j.tibtech.2024.09.008",
+      "validation_paper": "10.1021/acsnano.1c04496",
+      "train_rows": 4247,
+      "validation_rows": 21,
+      "test_rows": 780,
+      "exact_sequence_train_test_overlap": 0,
+      "status": "evaluated",
+      "selected_epochs": {
+        "endpoint_gaussian": 25,
+        "censored_likelihood": 2
+      }
+    },
+    {
+      "test_paper": "10.1021/acsnano.1c04496",
+      "validation_paper": "10.1021/jacsau.5c00947",
+      "train_rows": 5021,
+      "validation_rows": 6,
+      "test_rows": 21,
+      "exact_sequence_train_test_overlap": 0,
+      "status": "evaluated",
+      "selected_epochs": {
+        "endpoint_gaussian": 12,
+        "censored_likelihood": 2
+      }
+    },
+    {
+      "test_paper": "10.1021/jacsau.5c00947",
+      "validation_paper": "10.1038/s41467-025-60051-6",
+      "train_rows": 4428,
+      "validation_rows": 614,
+      "test_rows": 6,
+      "exact_sequence_train_test_overlap": 0,
+      "status": "evaluated",
+      "selected_epochs": {
+        "endpoint_gaussian": 7,
+        "censored_likelihood": 9
+      }
+    },
+    {
+      "test_paper": "10.1038/s41467-025-60051-6",
+      "validation_paper": "10.1038/s41551-024-01201-x",
+      "train_rows": 3136,
+      "validation_rows": 1298,
+      "test_rows": 614,
+      "exact_sequence_train_test_overlap": 0,
+      "status": "evaluated",
+      "selected_epochs": {
+        "endpoint_gaussian": 10,
+        "censored_likelihood": 16
+      }
+    },
+    {
+      "test_paper": "10.1038/s41551-024-01201-x",
+      "validation_paper": "10.1038/s41564-025-02061-0",
+      "train_rows": 2870,
+      "validation_rows": 880,
+      "test_rows": 1298,
+      "exact_sequence_train_test_overlap": 0,
+      "status": "evaluated",
+      "selected_epochs": {
+        "endpoint_gaussian": 9,
+        "censored_likelihood": 37
+      }
+    },
+    {
+      "test_paper": "10.1038/s41564-025-02061-0",
+      "validation_paper": "10.1038/s41564-026-02408-1",
+      "train_rows": 3995,
+      "validation_rows": 173,
+      "test_rows": 880,
+      "exact_sequence_train_test_overlap": 0,
+      "status": "evaluated",
+      "selected_epochs": {
+        "endpoint_gaussian": 19,
+        "censored_likelihood": 5
+      }
+    },
+    {
+      "test_paper": "10.1038/s41564-026-02408-1",
+      "validation_paper": "10.1038/s41589-026-02269-z",
+      "train_rows": 4851,
+      "validation_rows": 24,
+      "test_rows": 173,
+      "exact_sequence_train_test_overlap": 0,
+      "status": "evaluated",
+      "selected_epochs": {
+        "endpoint_gaussian": 1,
+        "censored_likelihood": 1
+      }
+    },
+    {
+      "test_paper": "10.1038/s41589-026-02269-z",
+      "validation_paper": "10.1038/s42003-023-05254-7",
+      "train_rows": 4906,
+      "validation_rows": 118,
+      "test_rows": 24,
+      "exact_sequence_train_test_overlap": 0,
+      "status": "evaluated",
+      "selected_epochs": {
+        "endpoint_gaussian": 21,
+        "censored_likelihood": 1
+      }
+    },
+    {
+      "test_paper": "10.1038/s42003-023-05254-7",
+      "validation_paper": "10.1038/s42256-025-01119-2",
+      "train_rows": 4896,
+      "validation_rows": 34,
+      "test_rows": 118,
+      "exact_sequence_train_test_overlap": 0,
+      "status": "evaluated",
+      "selected_epochs": {
+        "endpoint_gaussian": 19,
+        "censored_likelihood": 2
+      }
+    },
+    {
+      "test_paper": "10.1038/s42256-025-01119-2",
+      "validation_paper": "10.1038/s42256-026-01237-5",
+      "train_rows": 3914,
+      "validation_rows": 1100,
+      "test_rows": 34,
+      "exact_sequence_train_test_overlap": 0,
+      "status": "evaluated",
+      "selected_epochs": {
+        "endpoint_gaussian": 11,
+        "censored_likelihood": 15
+      }
+    },
+    {
+      "test_paper": "10.1038/s42256-026-01237-5",
+      "validation_paper": "10.1016/j.tibtech.2024.09.008",
+      "train_rows": 3168,
+      "validation_rows": 780,
+      "test_rows": 1100,
+      "exact_sequence_train_test_overlap": 0,
+      "status": "evaluated",
+      "selected_epochs": {
+        "endpoint_gaussian": 9,
+        "censored_likelihood": 23
+      }
+    }
+  ],
+  "models": {
+    "censored_likelihood": {
+      "rows": 5048,
+      "exact_rows": 1895,
+      "censored_rows": 3153,
+      "observation_nll": 1.1951749535028788,
+      "exact_only_rmse": 1.4252681434822234,
+      "mean_outside_observed_bound_fraction": 0.45068189026324135
+    },
+    "endpoint_gaussian": {
+      "rows": 5048,
+      "exact_rows": 1895,
+      "censored_rows": 3153,
+      "observation_nll": 1.107045720380815,
+      "exact_only_rmse": 0.7730027190710465,
+      "mean_outside_observed_bound_fraction": 0.6793529971455756
+    }
+  },
+  "paper_balanced_nll_difference": {
+    "censored_minus_endpoint": 0.13595152109792666,
+    "paper_bootstrap_95_interval": [
+      -0.29315218747578564,
+      0.5599864653739005
+    ]
+  }
+}

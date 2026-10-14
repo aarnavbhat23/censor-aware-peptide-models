@@ -1,0 +1,14 @@
+{
+  "synthetic": true,
+  "seed": 419,
+  "rows": 20000,
+  "true_mean": 1.5,
+  "true_scale": 0.6,
+  "censor_at": 1.2,
+  "censored_fraction": 0.6921,
+  "endpoint_mean": 1.0788812771860192,
+  "endpoint_scale": 0.250927917465925,
+  "censor_aware_mean": 1.5048765889808218,
+  "censor_aware_scale": 0.6099745265078419,
+  "note": "Known iid Gaussian simulation; this does not establish performance on literature data."
+}

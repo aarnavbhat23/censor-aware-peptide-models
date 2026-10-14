@@ -1,0 +1,8 @@
+{
+  "model": "facebook/esm2_t12_35M_UR50D",
+  "revision": "6fbf070e65b0b7291e7bbcd451118c216cff79d8",
+  "sequences": 488,
+  "dimension": 480,
+  "pooling": "Final layer residue mean, excluding special tokens and padding",
+  "sha256": "e5e41590a0813a318c818bbf2917a526f1ec9d1b65ad0ba8f817fca9869abade"
+}
