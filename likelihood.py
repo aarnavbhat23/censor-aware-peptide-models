@@ -5,7 +5,8 @@ from torch import nn
 
 
 def observed_nll(mean,scale,lower,upper):
-    if (scale <= 0).any() or not torch.isfinite(mean).all(): raise ValueError('Invalid Gaussian parameters')
+    if (scale <= 0).any() or not torch.isfinite(scale).all() or not torch.isfinite(mean).all():
+        raise ValueError('Invalid Gaussian parameters')
     exact = torch.isfinite(lower) & torch.isfinite(upper) & (lower == upper)
     right = torch.isfinite(lower) & torch.isposinf(upper)
     left = torch.isneginf(lower) & torch.isfinite(upper)

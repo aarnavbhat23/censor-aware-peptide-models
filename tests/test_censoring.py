@@ -29,6 +29,11 @@ class CensoringTests(unittest.TestCase):
         nll=observed_nll(torch.zeros(1),torch.ones(1),torch.zeros(1),torch.tensor([float('inf')]))
         self.assertAlmostEqual(nll.item(),math.log(2),places=6)
 
+    def test_nonfinite_scale_rejected(self):
+        for scale in [float('nan'),float('inf'),0.]:
+            with self.assertRaises(ValueError):
+                observed_nll(torch.zeros(1),torch.tensor([scale]),torch.zeros(1),torch.zeros(1))
+
     def test_publication_sequence_purge(self):
         data=pd.DataFrame({'paper':['test','validation','train','train','validation'], 'sequence':['A','B','A','C','A']})
         train,val,test=purged_masks(data,'test','validation')
