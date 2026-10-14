@@ -1,5 +1,7 @@
 # Censor-aware Peptide Models
 
+[![Reproduction checks](https://github.com/aarnavbhat23/censor-aware-peptide-models/actions/workflows/likelihood.yml/badge.svg)](https://github.com/aarnavbhat23/censor-aware-peptide-models/actions/workflows/likelihood.yml)
+
 Train on what a MIC observation says, including the part it does **not** say.
 
 `MIC >64 µM` contributes a Gaussian survival probability, not a fabricated measurement at 64. This repository combines a stable censored likelihood, frozen ESM-2 representations, trainable potency heads, a synthetic identifiability check, and publication-held-out evaluation on a real literature-extracted assay table.
